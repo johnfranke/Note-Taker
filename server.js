@@ -4,7 +4,7 @@ var path = require("path");
 var fs = require("fs");
 
 var app = express();
-var PORT = 7500;
+var PORT = process.env.PORT || 3000;
 
 var ID = 0;
 
