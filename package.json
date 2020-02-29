@@ -1,8 +1,8 @@
 {
-  "name": "wordguess",
+  "name": "note-taker",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node index",
     "watch": "nodemon index",
