@@ -3,7 +3,7 @@
 ## Deployed App
 https://lit-taiga-23501.herokuapp.com/
 
-## Desciption
+## Description
 
 An application that can be used to write, save, and delete notes. This application uses an Express back-end and saves and retrieves note data from a JSON file.
 
