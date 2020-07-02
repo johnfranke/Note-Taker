@@ -1,4 +1,4 @@
-# Note-Taker
+# Note Taker
 
 ## Deployed App
 https://lit-taiga-23501.herokuapp.com/
